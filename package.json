@@ -1,0 +1,14 @@
+{
+  "name": "Scraper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node HelloWorld"
+  },
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+
+  }
+}
